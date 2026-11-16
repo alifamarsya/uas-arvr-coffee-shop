@@ -3802,13 +3802,13 @@ MonoBehaviour:
       m_Calls: []
   m_text: '1. Arahkan kamera ke meja/lantai.
 
-    2. Tap layar untuk meletakkan
-    miniatur kafe.
+    2. Tap layar untuk meletakkan miniatur
+    kafe.
 
     3. Tekan ''Masuk VR'' untuk masuk ke dalam kafe.
 
-    4.
-    Di VR, pakai tombol di layar untuk pindah dan ganti warna.
+    4. Di VR, pakai
+    tombol di layar untuk pindah dan ganti warna.
 
 '
   m_isRightToLeft: 0

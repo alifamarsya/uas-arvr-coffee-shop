@@ -1177,6 +1177,53 @@ Transform:
   - {fileID: 1954280434}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1441333495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1441333497}
+  - component: {fileID: 1441333496}
+  m_Layer: 0
+  m_Name: PengaturSusunan
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1441333496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441333495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b6e2b810421243488a3db38572765fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  meja1: {fileID: 0}
+  meja2: {fileID: 0}
+  meja3: {fileID: 0}
+--- !u!4 &1441333497
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441333495}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.0730815, y: 0.65411747, z: -2.1867242}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1659674336
 GameObject:
   m_ObjectHideFlags: 0
@@ -1922,6 +1969,54 @@ MeshRenderer:
     type: 3}
   m_PrefabInstance: {fileID: 1676167742}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1857201810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1857201812}
+  - component: {fileID: 1857201811}
+  m_Layer: 0
+  m_Name: PengaturPindah
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1857201811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857201810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5abb76f2019da874ea3e1d4ba28fa8b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  perabotTerpilih: {fileID: 0}
+  lapisanLantai:
+    serializedVersion: 2
+    m_Bits: 256
+--- !u!4 &1857201812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857201810}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.0730815, y: 0.65411747, z: -2.1867242}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1875337779
 GameObject:
   m_ObjectHideFlags: 0
@@ -1935,7 +2030,7 @@ GameObject:
   - component: {fileID: 1875337781}
   - component: {fileID: 1875337780}
   - component: {fileID: 1875337784}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3363,3 +3458,5 @@ SceneRoots:
   - {fileID: 2026005709}
   - {fileID: 2013730156}
   - {fileID: 2132982963}
+  - {fileID: 1857201812}
+  - {fileID: 1441333497}

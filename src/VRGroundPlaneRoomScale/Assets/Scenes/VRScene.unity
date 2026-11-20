@@ -1736,7 +1736,7 @@ GameObject:
   - component: {fileID: 310621442}
   - component: {fileID: 310621441}
   m_Layer: 0
-  m_Name: PCPLayer
+  m_Name: PCPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2275,7 +2275,7 @@ GameObject:
   - component: {fileID: 380970589}
   - component: {fileID: 380970588}
   m_Layer: 5
-  m_Name: 'BtnWarnaKrem '
+  m_Name: BtnWarnaKrem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

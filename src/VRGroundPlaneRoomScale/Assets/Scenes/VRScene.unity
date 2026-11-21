@@ -1610,7 +1610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e2f4617667341945b5a7756e14b62d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 20458659}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
@@ -9474,7 +9474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e2f4617667341945b5a7756e14b62d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 20458659}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
@@ -9737,7 +9737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e2f4617667341945b5a7756e14b62d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 20458659}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2

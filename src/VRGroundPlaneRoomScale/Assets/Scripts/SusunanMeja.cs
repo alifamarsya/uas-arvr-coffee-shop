@@ -20,8 +20,8 @@ public class SusunanMeja : MonoBehaviour
 
     public void SusunanJendela()
     {
-        meja1.transform.position = new Vector3(2f, 0, 1f);
-        meja2.transform.position = new Vector3(2f, 0, 0);
-        meja3.transform.position = new Vector3(2f, 0, -1f);
+        meja1.transform.position = new Vector3(2.88f, 0, 1f);
+        meja2.transform.position = new Vector3(2.88f, 0, 2f);
+        meja3.transform.position = new Vector3(2.88f, 0, 3f);
     }
 }

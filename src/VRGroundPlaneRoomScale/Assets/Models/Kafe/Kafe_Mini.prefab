@@ -104,7 +104,8 @@ PrefabInstance:
       value: Kafe_Mini
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: e988b0b525e0c2d41b49ea239a8d5dd9, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e988b0b525e0c2d41b49ea239a8d5dd9, type: 3}

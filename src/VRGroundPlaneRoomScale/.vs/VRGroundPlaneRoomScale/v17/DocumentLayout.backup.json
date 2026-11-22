@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|d:\\uas-arvr-coffee-shop\\src\\vrgroundplaneroomscale\\assets\\scripts\\susunanmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\susunanmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|d:\\uas-arvr-coffee-shop\\src\\vrgroundplaneroomscale\\assets\\scripts\\arplacemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arplacemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SusunanMeja.cs",
+              "DocumentMoniker": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\Assets\\Scripts\\SusunanMeja.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SusunanMeja.cs",
+              "ToolTip": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\Assets\\Scripts\\SusunanMeja.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SusunanMeja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T17:57:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ARPlaceManager.cs",
               "DocumentMoniker": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\Assets\\Scripts\\ARPlaceManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ARPlaceManager.cs",

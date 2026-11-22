@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|d:\\uas-arvr-coffee-shop\\src\\vrgroundplaneroomscale\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|d:\\uas-arvr-coffee-shop\\src\\vrgroundplaneroomscale\\assets\\scripts\\susunanmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\susunanmeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|d:\\uas-arvr-coffee-shop\\src\\vrgroundplaneroomscale\\assets\\scripts\\arplacemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\assets\\scripts\\arplacemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B861A25E-9BD4-4770-384D-4C2456EAB3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arplacemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:08:37.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SusunanMeja.cs",
               "DocumentMoniker": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\Assets\\Scripts\\SusunanMeja.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SusunanMeja.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ARPlaceManager.cs",
               "DocumentMoniker": "D:\\uas-arvr-coffee-shop\\src\\VRGroundPlaneRoomScale\\Assets\\Scripts\\ARPlaceManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ARPlaceManager.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ARPlaceManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T12:32:17.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-20T12:32:17.1Z"
             }
           ]
         }
